@@ -1,23 +1,23 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - _Sea Monster Crowdfunding_
 
-Submitted by: **Your Name Here**
+Submitted by: **Noah Kim**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Visualize Data** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* [ ] The introduction section explains the background of the company and how many games remain unfunded.
-* [ ] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [ ] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [ ] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+- [x] The introduction section explains the background of the company and how many games remain unfunded.
+- [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+- [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+- [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+- [x] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
@@ -26,7 +26,26 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+<img src='gifwalkthrus/addgames.gif' title='Adding Games to Page' width="500"/>
+Implementation of addGamesToPage function.
+
+<img src='gifwalkthrus/datadisplay.gif' title='Displaying Data' width="500"/>
+Implementation of displaying the games data.
+
+<img src='gifwalkthrus/filterbtns.gif' title='Filter Button' width="500"/>
+Implementation of working filter buttons.
+
+<img src='gifwalkthrus/descriptionContainer.gif' title='Description of unfunded games' width="500"/>
+Implementation of the displaying the description of unfunded games
+
+<img src="gifwalkthrus/top games.gif" title='Displaying Top Games' width="500"/>
+Implementation of displaying the Top two Games.
+
+<img src="gifwalkthrus/custom features.gif" title="Adding a custom feature" width="500"/>
+Implementation of adding a custom feature by incoporating a color change for the buttons when it is in a hover state. Helps show visual feedback that the button is "listened" for.
+
+GIF created with [LICECap](https://www.cockos.com/licecap/)
+
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,9 +55,15 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+Building the app posed some challenges, especially when it came to implementing destructuring. Initially, the concept of destructuring was a bit difficult to grasp. The syntax and the way it worked were not immediately intuitive, leading to some confusion.
+
+However, through the challenge exercise, I gained a better understanding of destructuring. Working on the challenges helped solidify the concept, and I eventually overcame the initial problem.
+
+In software development, encountering and overcoming such challenges is a common part of the learning process. It's through persistence, hands-on experience, and continuous learning that one can navigate and conquer these obstacles.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [boatnoah]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
