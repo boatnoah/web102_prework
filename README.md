@@ -26,23 +26,30 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
+
+### Implementation of addGamesToPage function.
+
 <img src='gifwalkthrus/addgames.gif' title='Adding Games to Page' width="500"/>
-Implementation of addGamesToPage function.
+
+### Implementation of displaying the games data.
 
 <img src='gifwalkthrus/datadisplay.gif' title='Displaying Data' width="500"/>
-Implementation of displaying the games data.
+
+### Implementation of working filter buttons.
 
 <img src='gifwalkthrus/filterbtns.gif' title='Filter Button' width="500"/>
-Implementation of working filter buttons.
+
+### Implementation of the displaying the description of unfunded games
 
 <img src='gifwalkthrus/descriptionContainer.gif' title='Description of unfunded games' width="500"/>
-Implementation of the displaying the description of unfunded games
+
+### Implementation of displaying the Top two Games.
 
 <img src="gifwalkthrus/top games.gif" title='Displaying Top Games' width="500"/>
-Implementation of displaying the Top two Games.
+
+### Implementation of adding a custom feature by incoporating a color change for the buttons when it is in a hover state. Helps show visual feedback that the button is "listened" for.
 
 <img src="gifwalkthrus/custom features.gif" title="Adding a custom feature" width="500"/>
-Implementation of adding a custom feature by incoporating a color change for the buttons when it is in a hover state. Helps show visual feedback that the button is "listened" for.
 
 GIF created with [LICECap](https://www.cockos.com/licecap/)
 
